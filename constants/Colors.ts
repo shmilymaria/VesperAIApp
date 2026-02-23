@@ -1,0 +1,41 @@
+// @note mirrors the CSS variables in global.css for JS-side usage (icons, statusbar, etc.)
+const Colors = {
+  light: {
+    background: "#ffffff",
+    foreground: "#171717",
+    card: "#ffffff",
+    cardForeground: "#171717",
+    primary: "#171717",
+    primaryForeground: "#ffffff",
+    secondary: "#f5f5f5",
+    secondaryForeground: "#171717",
+    muted: "#fafafa",
+    mutedForeground: "#737373",
+    accent: "#f5f5f5",
+    accentForeground: "#171717",
+    destructive: "#ef4444",
+    border: "#e5e5e5",
+    input: "#d4d4d4",
+    ring: "#a3a3a3",
+  },
+  dark: {
+    background: "#171717",
+    foreground: "#fafafa",
+    card: "#262626",
+    cardForeground: "#fafafa",
+    primary: "#fafafa",
+    primaryForeground: "#171717",
+    secondary: "#404040",
+    secondaryForeground: "#fafafa",
+    muted: "#262626",
+    mutedForeground: "#a3a3a3",
+    accent: "#404040",
+    accentForeground: "#fafafa",
+    destructive: "#f87171",
+    border: "#404040",
+    input: "#404040",
+    ring: "#525252",
+  },
+} as const;
+
+export default Colors;
