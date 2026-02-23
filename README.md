@@ -18,6 +18,9 @@
 VesperAI App is the client application for Vesper AI. It handles authentication,
 chat interaction, conversation history, model selection, and account usage views.
 
+This app requires the API backend to run.
+Backend source: https://github.com/YoruAkio/VesperAIApp-Backend
+
 ## Features
 
 - WorkOS authentication (Google and Apple).
